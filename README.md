@@ -8,7 +8,7 @@
 * 🖥️ See my resume
 [My resume](https://sochi.hh.ru/applicant/resumes/view?resume=77246ca1ff0c9fa88b0039ed1f463241364a59)
 * ✉️ You can contact me
-  telegram: +79628904012
+  telegram: @kdc97
 # Hard skills
 
 * **Programming: Python, SQL**
