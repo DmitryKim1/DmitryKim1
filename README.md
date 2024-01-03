@@ -13,10 +13,10 @@
 
 * **Programming: Python, SQL**
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Gowritecoder)](https://github.com/KnlnKS/leetcode-stats)
-
 * **Data Workflow: Pandas, Numpy, Matplotlib, Plotly, Seaborn, Scikit-Learn**
 
 * **Deployment: Git**
 
 * **Extra: Excel, A/B testing**
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Gowritecoder)](https://github.com/KnlnKS/leetcode-stats)
