@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Dmitry</a> 
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Scientist</h3>
 
 # About
 # Status: Data scientist, looking for a job
@@ -16,6 +16,4 @@
 
 * **Deployment: Git**
 
-* **Extra: Excel, A/B testing**
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Gowritecoder)](https://github.com/KnlnKS/leetcode-stats)
+* **Extra: Excel**
