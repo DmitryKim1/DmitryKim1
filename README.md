@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Dmitry</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="12"/></h1>
 <h3 align="center">Data Analyst</h3>
 
 # About
