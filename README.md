@@ -2,11 +2,9 @@
 <h3 align="center">Data Scientist из Москвы</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
   <a href="https://t.me/kdc97" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
-  <a href="ссылка_на_ваше_резюме" target="_blank">
     <img src="https://img.shields.io/badge/Резюме-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="resume"/>
   </a>
 </p>
@@ -76,10 +74,7 @@
   <a href="https://t.me/kdc97" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:dmitrykim300@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
