@@ -5,8 +5,6 @@
   <a href="https://t.me/kdc97" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
-    <img src="https://img.shields.io/badge/Резюме-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="resume"/>
-  </a>
 </p>
 
 ---
