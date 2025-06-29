@@ -37,7 +37,7 @@
 
 ### 🚀 Ключевые проекты
 1. **Анализ вакансий Data Science**  
-   [![Open in GitHub](https://github.com/DmitryKim1/hh-ds-analysis)](https://github.com/DmitryKim1/hh-ds-analysis)
+   [![Open in GitHub](https://img.shields.io/badge/Код-GitHub-black?logo=github)](https://github.com/DmitryKim1/hh-ds-analysis)
    - Парсинг данных с hh.ru
    - Визуализация трендов рынка труда
    - Технологии: Python, Pandas, Plotly
