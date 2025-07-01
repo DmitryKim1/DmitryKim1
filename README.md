@@ -43,9 +43,9 @@
    - Технологии: Python, Pandas, Plotly
 
 2. **Прогнозирование оттока клиентов**  
-   [![Open in GitHub](https://img.shields.io/badge/Код-GitHub-black?logo=github)](ссылка_на_репозиторий)  
+   [![Open in GitHub](https://img.shields.io/badge/Код-GitHub-black?logo=github)](https://github.com/DmitryKim1/telco-churn-prediction) 
    - Построение ML-модели (XGBoost)
-   - Метрика: F1-score 0.89
+   - Метрика: F1-score 0.62
    - Технологии: Scikit-learn, Optuna
 
 3. **Визуализация транспортных потоков**  
